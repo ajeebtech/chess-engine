@@ -1,4 +1,5 @@
 this is a chess engine/bot created using supervised learning (classification)
+chess_model.pth(https://www.dropbox.com/scl/fi/rnxw726cmkgaes53y4bh3/chess_model.pth?rlkey=z0hmcljsd8ymnnojuxrytfou3&st=xk9ci3qd&dl=0)
 
 i have trained this engine on 40,000 games of tournament games recorded in .pgn files from various databases like chessgames.com, pgnmentor.com/files.html, etc.
 
